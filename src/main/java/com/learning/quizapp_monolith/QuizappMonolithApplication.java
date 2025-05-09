@@ -9,6 +9,6 @@ public class QuizappMonolithApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(QuizappMonolithApplication.class, args);
 	}
-//test comment for git push
+//test comment for git push in test branch
 }
 
